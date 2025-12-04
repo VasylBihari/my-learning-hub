@@ -39,6 +39,6 @@ Choose a topic folder below to explore the detailed notes and examples:
 * ➡️ **[Excel](/Excel)**
 * ➡️ **[SQL](/SQL)**
 * ➡️ **[Python](/Python)**
-* ➡️ **[Other Tools](/Other_Tools)**
+* ➡️ **[Other Tools](/Other%20Tools)**
 
 *(Click on the folder links above to dive into the specific learning materials!)*
