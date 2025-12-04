@@ -36,12 +36,9 @@ This repository serves multiple goals:
 
 Choose a topic folder below to explore the detailed notes and examples:
 
-➡️ **[/Excel](/Excel)**
-<br>
-➡️ **[/SQL](/SQL)**
-<br>
-➡️ **[/Python](/Python)**
-<br>
-➡️ **[/Other Tools](/Other Tools)**
+* ➡️ **[Excel](/Excel)**
+* ➡️ **[SQL](/SQL)**
+* ➡️ **[Python](/Python)**
+* ➡️ **[Other Tools](/Other)**
 
 *(Click on the folder links above to dive into the specific learning materials!)*
