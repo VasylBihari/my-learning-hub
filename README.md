@@ -12,10 +12,10 @@ This Learning Hub is divided into the following main sections, designed for focu
 
 | Section | 📝 Key Focus Areas |
 | :--- | :--- |
-| **🟢 Excel** | Formulas, Power Query (M), Pivot Tables, Dashboards, Best Practices |
-| **🔵 SQL** | Core Query Patterns, Joins, Aggregations, Window Functions, Practical Exercises |
-| **🐍 Python** | Pandas, NumPy, Data Cleaning, Data Visualization (Matplotlib/Seaborn), API Connections |
-| **🛠️ Other Tools** | Power BI, AI Tools, GitHub Workflows, Data Automation Techniques |
+| **🟢 Excel** | **Theoretical Notes** on formulas and Power Query (M), **Practical Examples** of building dashboards, and best practices. |
+| **🔵 SQL** | **Core Concepts** (joins, aggregations, window functions), **Practical Exercises** for query building, and syntax reference. |
+| **🐍 Python** | **Theoretical Material** on Pandas and NumPy, **Practical Scripts** for data cleaning/API connections, and visualization examples. |
+| **🛠️ Other Tools** | **Notes** on Power BI and AI tools, **Practical Workflows** for GitHub, and examples of data automation techniques. |
 
 Each section contains topic-based notes and examples that I update as I continue learning and applying new concepts.
 
@@ -26,7 +26,7 @@ Each section contains topic-based notes and examples that I update as I continue
 This repository serves multiple goals:
 
 * ✅ **Consolidate and Document** my knowledge in a central, organized place.
-* * 🏗️ **Build a Reference Library** for quickly recalling syntax, formulas, and techniques for future projects.
+* 🏗️ **Build a Reference Library** for quickly recalling syntax, formulas, and techniques for future projects.
 * 🤝 **Share my Progress** and commitment to learning with potential employers and the community.
 * 📈 **Strengthen my GitHub Activity** and create a tangible Data Analytics portfolio.
 
