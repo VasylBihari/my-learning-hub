@@ -42,6 +42,6 @@ Choose a topic folder below to explore the detailed notes and examples:
 <br>
 ➡️ **[/Python](/Python)**
 <br>
-➡️ **[/Other Tools](/Other Tools)**
+➡️ **[/Other Tools](/Other)**
 <br>
 *(Click on the folder links above to dive into the specific learning materials!)*
